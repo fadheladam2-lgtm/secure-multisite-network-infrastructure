@@ -298,6 +298,7 @@ Le projet sera considéré comme fonctionnel lorsque :
 - OSPF établit correctement ses voisinages
 - Le siège communique avec l'agence
 - HSRP assure la redondance de passerelle
+- 
 - EtherChannel fonctionne correctement
 - STP protège contre les boucles
 - Les ACL appliquent les règles prévues
